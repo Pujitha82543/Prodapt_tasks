@@ -1,0 +1,23 @@
+[
+    {
+        "sku": "SKU-EL1001",
+        "name": "Laptop",
+        "unit_price": 50000,
+        "stock_qty": 5,
+        "category": "Electronics"
+    },
+    {
+        "sku": "SKU-GR2001",
+        "name": "Rice Bag",
+        "unit_price": 1200,
+        "stock_qty": 30,
+        "category": "Grocery"
+    },
+    {
+        "sku": "SKU-FA3001",
+        "name": "T-Shirt",
+        "unit_price": 700,
+        "stock_qty": 15,
+        "category": "Fashion"
+    }
+]

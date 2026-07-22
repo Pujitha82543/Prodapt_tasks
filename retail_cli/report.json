@@ -1,0 +1,22 @@
+{
+    "Total Revenue": 335480.0,
+    "Revenue by Category": {
+        "Electronics": 325000.0,
+        "Grocery": 6000.0,
+        "Fashion": 4480.0
+    },
+    "Revenue by Channel": {
+        "online": 141000.0,
+        "in-store": 194480.0
+    },
+    "Oversold SKUs": [
+        "SKU-EL1001"
+    ],
+    "Low Stock SKUs": [
+        "SKU-EL1001",
+        "SKU-FA3001"
+    ],
+    "Unknown SKUs": [
+        "SKU-XX9999"
+    ]
+}

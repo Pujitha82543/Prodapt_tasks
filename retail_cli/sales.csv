@@ -1,0 +1,6 @@
+sku,qty_sold,discount_pct,channel
+SKU-EL1001,3,10,online
+SKU-EL1001,4,5,in-store
+SKU-GR2001,5,0,online
+SKU-FA3001,8,20,in-store
+SKU-XX9999,2,5,online

@@ -1,0 +1,4 @@
+2026-07-22 14:41:49,552 ERROR Malformed row skipped : {'sku': 'SKU-EL1001', 'qty_sold': 'abc', 'discount_pct': '10', 'channel': 'online'}
+2026-07-22 14:41:49,553 CRITICAL More than 10 percent malformed rows.
+2026-07-22 14:42:18,263 ERROR Malformed row skipped : {'sku': 'SKU-EL1001', 'qty_sold': 'abc', 'discount_pct': '10', 'channel': 'online'}
+2026-07-22 14:42:18,264 CRITICAL More than 10 percent malformed rows.
